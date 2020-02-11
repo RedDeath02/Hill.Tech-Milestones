@@ -1,0 +1,7 @@
+/*Universal Selector*/
+*{
+text-align :center;}
+/*Type Selector*/
+html {
+    background-color:blue;
+}
